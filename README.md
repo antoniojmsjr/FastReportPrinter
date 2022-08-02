@@ -53,6 +53,8 @@ Se você optar por instalar manualmente, basta adicionar as seguintes pastas ao 
 
 Para exemplificar o uso do biblioteca foi utilizado os dados da **[API de localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/localidades)** para geração e impressão do relatório.
 
+Arquivo de exemplo de impressão: [LocalidadesIBGE.pdf](https://github.com/antoniojmsjr/FastReportPrinter/files/9245473/LocalidadesIBGE.pdf)
+
 Os exemplos estão disponíveis na pasta do projeto:
 
 ```
