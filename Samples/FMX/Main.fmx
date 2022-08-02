@@ -1,0 +1,36 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'Impress'#227'o Fast Report'
+  ClientHeight = 50
+  ClientWidth = 500
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object lytHeader: TLayout
+    Align = Top
+    Size.Width = 500.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object btnImprimir: TButton
+      Position.X = 15.000000000000000000
+      Position.Y = 15.000000000000000000
+      TabOrder = 1
+      Text = 'Imprimir'
+      OnClick = btnImprimirClick
+    end
+    object btnImprimirThread: TButton
+      Position.X = 369.000000000000000000
+      Position.Y = 15.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Imprimir - Thread'
+      OnClick = btnImprimirThreadClick
+    end
+  end
+end
