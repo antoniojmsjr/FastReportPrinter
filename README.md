@@ -133,14 +133,18 @@ begin
 end;
 ```
 
-https://user-images.githubusercontent.com/20980984/182460168-8a01a10a-cc06-45af-985f-37d91745ab6f.mp4
+**Observações**
+
+* Falta de memória pode gerar falha de impressão.
+* Impressão de documentos grandes pode ter demorar na resposta de sucesso da impressão.
+* Windows Service Application é necessário configurar "logon" usando uma conta administrativa para um impressão com sucesso.
 
 **Exemplo compilado**
 
 * VCL
 * VCL [(Horse)](https://github.com/HashLoad/horse)
 
-
+https://user-images.githubusercontent.com/20980984/182460168-8a01a10a-cc06-45af-985f-37d91745ab6f.mp4
 
 **Teste de desempenho para aplicações web usando [JMeter](https://jmeter.apache.org/):**
 
