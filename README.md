@@ -137,7 +137,7 @@ end;
 
 * Falta de memória pode gerar falha de impressão.
 * Impressão de documentos grandes pode ter demorar na resposta de sucesso da impressão.
-* Windows Service Application é necessário configurar "logon" usando uma conta administrativa para um impressão com sucesso.
+* Windows Service Application é necessário configurar "logon" usando uma conta administrativa para uma impressão com sucesso.
 
 **Exemplo compilado**
 
