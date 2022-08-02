@@ -135,7 +135,7 @@ begin
 end;
 ```
 
-**Observações**
+**Observação**
 
 * Falta de memória pode gerar falha de impressão.
 * Impressão de documentos grandes pode ter demorar na resposta de sucesso da impressão.
