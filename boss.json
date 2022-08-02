@@ -1,0 +1,9 @@
+{
+	"name": "FastReportPrinter",
+	"description": "Biblioteca de impressão de relatórios com Fast Report para ambientes multithreading e não GUI(Graphical User Interface).",
+	"version": "1.0.0",
+	"homepage": "\u0016https://github.com/antoniojmsjr/FastReportPrinter",
+	"mainsrc": "Source",
+	"projects": [],
+	"dependencies": {}
+}
