@@ -19,6 +19,8 @@ Implementado na linguagem Delphi, utiliza o conceito de [fluent interface](https
 * Windows Forms
 * Windows Console
 * Windows Service
+* IIS ISAPI[(Horse)](https://github.com/HashLoad/horse)*
+* IIS CGI[(Horse)](https://github.com/HashLoad/horse)*
 
 ## ⭕ Pré-requisito
 
