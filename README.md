@@ -142,7 +142,7 @@ end;
 * Falta de memória pode gerar falha de impressão.
 * Impressão de documento grande pode ter demora na resposta de sucesso da impressão.
 * Windows Service Application é necessário configurar "logon" usando uma conta administrativa ou NT AUTHORITY\LocalService e ou NT AUTHORITY\NetworkService para uma impressão com sucesso.
-* IIS(ISAPI/CGI) devido a um bug quando app 32 bits e Windows 64 bits não é possível imprimir, solução, compilar app 64 bits e com permissão usando uma conta NT AUTHORITY\LocalService e ou NT AUTHORITY\NetworkService.
+* IIS(ISAPI/CGI) devido a um [bug](https://blogs.stonesteps.ca/1/p/44) quando app 32 bits e Windows 64 bits não é possível imprimir, solução, compilar app 64 bits e com permissão usando uma conta NT AUTHORITY\LocalService e ou NT AUTHORITY\NetworkService.
 
 **Exemplo compilado**
 
